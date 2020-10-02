@@ -1,6 +1,6 @@
 Plan Number 148 - 
 1) Annuity for life.
-2) Annuity for  life  with  guaranteed  period of    5, 10, 15, 20 years.
+2) Annuity for  life  with  guaranteed  period of    5, 10, 15, 20, 25 years.
 3) Joint life and last survivor to annuity to the     annuitant and his/her spouse under which    annuity   payable to the spouse on death to the    purchaser   will be 50 % of that payable the    the annuitant.
 4)  Life annuity with return of purchase price.
     Life annuity increasing at 3% simple P.A.
