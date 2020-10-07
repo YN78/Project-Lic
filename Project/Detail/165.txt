@@ -1,7 +1,6 @@
-Plan Number 165 - 
+Plan Number 166 - 
 1) Maturity benefits : maturity sum assured (MSA)    +  Loyality Additions,  if any.
 2)Death benefits : 250 times the monthly basic   premium (called Death Benefit S.A.)+return to   premiums paid (excluding 1st year premium and   extra/rider premium) + loyality additions, if   any.
 3)Loyalty additions : will be declared after the   policy has been in full force for atleast 10   years.
 4)Optional riders : for an additional premium 
-  Accidental death and disability benefit  rider 
-  Term assurance rider will be available  and   their S.A.will not exceed the death benefit S.A
+  Accidental death and disability benefit  rider
